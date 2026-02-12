@@ -56,7 +56,7 @@
   year: 2025
   
   doi: "https://doi.org/10.1038/s41598-024-74323-6"
-  featured: true
+  featured: false
 
 - title: "Exploring Nonlinear Dynamics and Solitary Waves in the Fractional Klein–Gordon Model"
   authors: "Md. Abde Mannaf, Muktarebatul Jannah, Md. Habibul Bashar, Md. Ekramul Islam, Md. Zuel Rana, Mst. Tania Khatun, Md. Noor-A-Alam Siddiki, Md. Shahinur Islam"
@@ -67,7 +67,7 @@
   year: 2025
   
   doi: "https://doi.org/10.1155/admp/9970003"
-  featured: true
+  featured: false
 
 - title: "Phase plane bifurcation analysis of water wave dynamics in the simplified modified Camassa–Holm model with friction and wind effects"
   authors: "Md. Ekramul Islam, Md. Abde Mannaf, Mst. Tania Khatun, Md. Azizur Rahman, Md. Abdul Akbar, Udoy S. Basak"
