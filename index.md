@@ -2,6 +2,7 @@
 ---
 layout: home
 # Index page
+math: true
 ---
 
 # About Md. Abde Mannaf
